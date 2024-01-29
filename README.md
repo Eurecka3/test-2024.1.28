@@ -20,9 +20,29 @@
         background-color: aqua;
         text-align: center;
         padding: 60px;">
-            <p>miHoyo 网站缝合怪</p>
-            <a href="https://ys.mihoyo.com/cloud">云·原神</a>
-            <a href="https://sr.mihoyo.com/cloud">云·星穹铁道</a>
+            <p>miHoYo 网站缝合怪</p>
+            <a href="https://ys.mihoyo.com/cloud" title="云·原神" target="_blank" >
+                <img src="https://ys.mihoyo.com/cloud/img/logo_home_header.82e54fa5.png">
+            </a>
+            <a href="https://sr.mihoyo.com/cloud" title="云·星穹铁道" target="_blank">
+                <img src="https://sr.mihoyo.com/cloud/img/logo_home_header.d98f2de5.png">
+            </a>
+        </div>
+        <div style="
+        background-color: #cda4f3;
+        text-align: center;
+        padding: 50px;">
+            <p>下载链接-Windows</p>
+            <a href="https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/pc_web" download="yuanshen_setup_20231129224241.exe">
+                <div data-v-1e69b6ef class="content__title--text">下载<span class="title-client">「原神」</span>客户端</div>
+            </a>
+            <a href="https://api-takumi.mihoyo.com/event/download_porter/link/clgm_cn/official/pc_web" download="yscloud_4.3.0.exe">
+                <div data-v-1e69b6ef class="content__title--text">下载<span class="title-client">「云·原神」</span>客户端</div>
+            </a>
+            <a href="https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/pc_default" download="StarRail_setup_20231225.exe">
+                <div data-v-1e69b6ef class="content__title--text">下载<span class="title-client">「崩坏：星穹铁道」</span>客户端</div>
+            </a>
+            <a href="https://sr.mihoyo.com/cloud/#/download">敬请期待</a>
         </div>
         <div style="
         background-color: #F1F1F1;
