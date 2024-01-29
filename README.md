@@ -24,6 +24,7 @@
             <a href="https://ys.mihoyo.com/cloud" title="云·原神" target="_blank" >
                 <img src="https://ys.mihoyo.com/cloud/img/logo_home_header.82e54fa5.png">
             </a>
+            <p> </p>
             <a href="https://sr.mihoyo.com/cloud" title="云·星穹铁道" target="_blank">
                 <img src="https://sr.mihoyo.com/cloud/img/logo_home_header.d98f2de5.png">
             </a>
@@ -42,7 +43,7 @@
             <a href="https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/pc_default" download="StarRail_setup_20231225.exe">
                 <div data-v-1e69b6ef class="content__title--text">下载<span class="title-client">「崩坏：星穹铁道」</span>客户端</div>
             </a>
-            <a href="https://sr.mihoyo.com/cloud/#/download">敬请期待</a>
+            <a href="https://sr.mihoyo.com/cloud/#/download" target="_blank">敬请期待</a>
         </div>
         <div style="
         background-color: #F1F1F1;
